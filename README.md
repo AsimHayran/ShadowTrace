@@ -1,4 +1,3 @@
-# ShadowTrace
 # ShadowTrace - Advanced OSINT Toolkit
 
 ..........................................................................................................
@@ -51,11 +50,12 @@ A sophisticated OSINT tool with cyberpunk aesthetics for digital investigations.
 
 ## Installation
 
-```bash
+```
 git clone https://github.com/AsimHayran/ShadowTrace.git
 cd ShadowTrace
 pip install -r requirements.txt
-
+```
 Usage
-bash
+```
 python src/main.py
+```
