@@ -18,7 +18,12 @@ git clone https://github.com/AsimHayran/ShadowTrace.git
 cd ShadowTrace
 pip install -r requirements.txt
 ```
-Usage
-```
+
+## Example Usage
+
+```python
+# Domain investigation
 python src/main.py
+> Select option 1
+> Enter domain: example.com
 ```
