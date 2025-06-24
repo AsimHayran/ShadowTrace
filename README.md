@@ -17,6 +17,7 @@ A sophisticated OSINT tool with cyberpunk aesthetics for digital investigations.
 git clone https://github.com/AsimHayran/ShadowTrace.git
 cd ShadowTrace
 pip install -r requirements.txt
+python src/main.py
 ```
 
 ## Example Usage
